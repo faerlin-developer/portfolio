@@ -1,0 +1,25 @@
+site_name: Faerlin's Portfolio
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+      primary: black
+  icon:
+    logo: fontawesome/solid/atom
+  favicon: assets/favicon.ico
+  font:
+    text: Lora
+
+nav:
+  - About: index.md
+  - Table of Contents:
+    - Fractal Animation Server: projects/fractal-animation-server.md
+    - Kanban Board with React: projects/kanban-board-react.md
+    - Path Finding Algorithms: projects/path-finding-algorithms.md
+    - N-Body Simulation: projects/n-body.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

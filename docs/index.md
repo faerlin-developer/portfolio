@@ -1,0 +1,8 @@
+# About
+
+Hello World! I'm Faerlin. Here, you'll find projects I've worked on both for professional growth and personal curiosity. Take a look around, and feel free to connect.
+
+- [__Fractal Animation Server__](projects/fractal-animation-server.md): Generates fractal animations on demand featuring a microservice architecture in a Kubernetes cluster. (Python, FastAPI, Traefik, PostgreSQL, MinIO, Docker, and Kubernetes)
+- [__Kanban Board with React__](projects/kanban-board-react.md): React application that lets users create tasks, organizing them into four lanes: _To Do_, _In Progress_, _Review_ and _Completed_. Users can move tasks forward or backward between lanes. (JavaScript, React, Vite, TailwindCSS)
+- [__Path Finding Algorithms__](projects/path-finding-algorithms.md): Web application visualizing the traversal of graph search algorithms. (Python, Plotly Dash).
+- [__N-Body Simulation__](projects/n-body.md): Simulates the trajectories of particles in an N-body system. Application is configurable to run parallel MPI processes and to utilize a quadtree for better frame rate.  (C++, MPI, SFML). 
