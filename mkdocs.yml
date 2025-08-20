@@ -6,9 +6,13 @@ theme:
       primary: black
   icon:
     logo: fontawesome/solid/atom
+    repo: fontawesome/brands/git-alt
   favicon: assets/favicon.ico
   font:
     text: Lora
+
+repo_url: https://github.com/faerlin-developer/portfolio
+repo_name: faerlin-developer/portfolio
 
 nav:
   - About: index.md
@@ -17,6 +21,9 @@ nav:
     - Kanban Board with React: projects/kanban-board-react.md
     - Path Finding Algorithms: projects/path-finding-algorithms.md
     - N-Body Simulation: projects/n-body.md
+
+extra:
+  generator: false
 
 markdown_extensions:
   - attr_list
