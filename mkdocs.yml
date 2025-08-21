@@ -17,10 +17,10 @@ repo_name: faerlin-developer/portfolio
 nav:
   - About: index.md
   - Table of Contents:
-    - Fractal Animation Server: projects/fractal-animation-server.md
-    - Kanban Board with React: projects/kanban-board-react.md
-    - Path Finding Algorithms: projects/path-finding-algorithms.md
-    - N-Body Simulation: projects/n-body.md
+    - Fractal Animation Server: fractal-animation-server.md
+    - Kanban Board with React: kanban-board-react.md
+    - Path Finding Algorithms: path-finding-algorithms.md
+    - N-Body Simulation: n-body.md
 
 extra:
   generator: false
@@ -30,3 +30,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

@@ -1,3 +1,0 @@
-# Fractal Animation Server
-
-Hello
