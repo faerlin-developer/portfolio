@@ -17,7 +17,7 @@ Particle trajectories are animated with the [SFML][sfml-url] library, while comp
 ## Built With
 
 * [![cpp][cpp]][cpp-url]
-* [SFLM][sfml-url] (lightweight library for creating 2D graphics)
+* [SFML][sfml-url] (lightweight library for creating 2D graphics)
 * [MPI][mpi-url] (library for distributed-memory parallel programming)
 
 <!-- MARKDOWN LINKS & IMAGES -->
