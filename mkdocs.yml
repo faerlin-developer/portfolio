@@ -16,7 +16,7 @@ repo_name: faerlin-developer/portfolio
 
 nav:
   - About: index.md
-  - Table of Contents:
+  - Projects:
       - Fractal Animation Server: fractal-animation-server.md
       - Kanban Board with React: kanban-board-react.md
       - Path Finding Algorithms: path-finding-algorithms.md
@@ -33,6 +33,15 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
 
 plugins:
   - glightbox
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - css/extra.css

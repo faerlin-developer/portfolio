@@ -4,7 +4,7 @@
 
     :simple-github: [Click here for GitHub repository](https://github.com/faerlin-developer/path-finding-algorithms)
 
-This web application demonstrates the paths and visited nodes of two graph search algorithms: __breadth-first search__ and __A*__, with an architecture easily extendable to include additional algorithms such as __depth-first search__. The grid starts with obstacles arranged in a maze, and users can interactively add or remove obstacles by clicking on cells. The start and end positions can also be repositioned.
+This application demonstrates the paths and visited nodes of two graph search algorithms: __breadth-first search__ and __A*__, with an architecture easily extendable to include additional algorithms such as __depth-first search__. The grid starts with obstacles arranged in a maze, and users can interactively add or remove obstacles by clicking on cells. The start and end positions can also be repositioned.
 
 ![](assets/path-finding-algorithms/sample.png)
 

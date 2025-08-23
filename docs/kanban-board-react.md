@@ -4,7 +4,7 @@
 
     :simple-github: [Click here for GitHub repository](https://github.com/faerlin-developer/kanban-board-react)
 
-__Kanban Board with React__ is an application that lets users create tasks, organize them into four lanes (To Do, In Progress, Review, Completed), and move tasks forward or backward between lanes. It uses Vite as a built tool and React state with localStorage persistence, TailwindCSS for styling, and is built from modular components (Task, TaskForm, TaskList, Lane) for reusability. A Dockerfile is provided for easy deployment.
+This single-page web application lets users create tasks, organize them into four lanes (To Do, In Progress, Review, Completed), and move tasks forward or backward between lanes. It uses Vite as a built tool and React state with localStorage persistence, TailwindCSS for styling, and is built from modular components (Task, TaskForm, TaskList, Lane) for reusability. A Dockerfile is provided for easy deployment.
 
 ![](assets/kanban-board-react/sample.png)
 
