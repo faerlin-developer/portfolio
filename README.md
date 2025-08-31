@@ -1,3 +1,3 @@
 # Project Portfolio Website
 
-[https://faerlin-developer.github.io/portfolio/](https://faerlin-developer.github.io/portfolio/)
+Click [here](https://faerlin-developer.github.io/portfolio/) to visit my portfolio website.
