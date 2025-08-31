@@ -2,7 +2,7 @@
 
 ![WebCapture](assets/profile/profile.jpg){: style="height:150px;width:150px" align=left}
 
-Hello World! I'm Faerlin. Here, you'll find projects I've worked on both for professional growth and personal curiosity. With experience in Python, Go, C++, Java, and modern web development technologies, I focus on writing high-performance and maintainable code. Take a look around, and feel free to connect.
+Hello World! I'm Faerlin. Here, you'll find projects I've worked on both for professional growth and personal curiosity. With experience in Python, Go, C++, Java, and modern web development technologies, I focus on writing high-performance and maintainable code. Feel free to look around and connect.
 
 ### Projects
 
