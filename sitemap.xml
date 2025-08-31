@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://faerlin-developer.github.io/portfolio/</loc>
+         <lastmod>2025-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://faerlin-developer.github.io/portfolio/fractal-animation-server/</loc>
+         <lastmod>2025-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://faerlin-developer.github.io/portfolio/kanban-board-react/</loc>
+         <lastmod>2025-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://faerlin-developer.github.io/portfolio/n-body/</loc>
+         <lastmod>2025-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://faerlin-developer.github.io/portfolio/path-finding-algorithms/</loc>
+         <lastmod>2025-08-31</lastmod>
+    </url>
+</urlset>
